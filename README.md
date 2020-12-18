@@ -7,7 +7,7 @@ This project is licensed under Apache 2.0.
 	
 		
 			
-*The Original README file for VG101-1 FA2020 Project 3 is attached below.*
+***The Original README file for VG101-1 FA2020 Project 3 is attached below.***
 # Project3
 
 
