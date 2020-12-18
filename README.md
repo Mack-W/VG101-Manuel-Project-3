@@ -3,11 +3,11 @@ Source code for VG101 Manuel Section - project 3 (regular and interstellar parki
 # Contributors
 Yinchen Ni, Han Zhang and John Russell Himawan are the 3 major contributors to this project. I am just a debugger.
 # License
-This project is licensed under Apache 2.0.
-           
-             
-	        
-*The Original README file for VG101-1 FA2020 Project 3 is attached below*
+This project is licensed under Apache 2.0.   
+	
+		
+			
+*The Original README file for VG101-1 FA2020 Project 3 is attached below.*
 # Project3
 
 
