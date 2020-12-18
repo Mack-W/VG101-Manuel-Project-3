@@ -1,0 +1,2 @@
+p3: circle.cpp colorfig.cpp figure.cpp line.cpp p3.cpp rectangle.cpp regular_car.cpp regular_parking.cpp semicircle.cpp trapezium.cpp triangle.cpp Vec.cpp
+	g++ circle.cpp colorfig.cpp figure.cpp line.cpp p3.cpp rectangle.cpp regular_car.cpp regular_parking.cpp semicircle.cpp trapezium.cpp triangle.cpp Vec.cpp -o p3 -std=c++11 -lglut -lm -lGL -Wconversion -Wsign-conversion -Wall -Werror -Wextra -Wvla -Wpedantic
